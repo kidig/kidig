@@ -46,7 +46,6 @@ I'm
 ![Css3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000?style=for-the-badge&logo=pycharm)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=vscode)
-![Arc](https://img.shields.io/badge/-Arc-FCBFBD?style=for-the-badge&logo=arc&logoColor=black)
 
 
 ## 🤝 Connect with me
