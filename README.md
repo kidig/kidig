@@ -1,14 +1,5 @@
 ## Hi there 👋
 
-```
-I'm
- ___        _ _               ___                 _                _       
-|   \ _ __ (_) |_ _ _ _  _   / __|___ _ _ __ _ __(_)_ __  ___ _ _ | |_____ 
-| |) | '  \| |  _| '_| || | | (_ / -_) '_/ _` (_-< | '  \/ -_) ' \| / / _ \
-|___/|_|_|_|_|\__|_|  \_, |  \___\___|_| \__,_/__/_|_|_|_\___|_||_|_\_\___/
-                      |__/                                                 
-```
-
 * 🇨🇦 I live in Toronto, Canada.  
 * 📁 I'm currently working at [MyDocs](https://mydocs.global) as a Senior Software Engineer.  
 * 👨‍💻 I've been programming for 15+ years, primarily focusing on backend development.  
@@ -16,8 +7,8 @@ I'm
 
 ## In my spare time
 
-* ✈️ I travel to different countries (I've visited 40+ so far).  
-* 🎹 I play the piano or guitar.  
+* ✈️ I travel to different countries (visited 40+ so far).  
+* 🎹 I play the piano.  
 * 📷 I take photographs.  
 
 
