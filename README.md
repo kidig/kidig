@@ -1,25 +1,25 @@
 ## Hi there 👋
 
-* 🇨🇦 I live in Toronto, Canada.  
-* 📁 I'm currently working at [MyDocs](https://mydocs.global) as a Senior Software Engineer.  
-* 👨‍💻 I've been programming for 15+ years, primarily focusing on backend development.  
+* 🇭🇷 Based in Zagreb, Croatia.  
+* 📁 Senior Software Engineer at [MyDocs](https://mydocs.global).
+* 👨‍💻 15+ years of programming experience, primarily focused on backend development.
 
 
 ## In my spare time
 
-* ✈️ I travel to different countries (visited 40+ so far).  
-* 🎹 I play the piano.  
-* 📷 I take photographs.  
+* ✈️ Traveling and exporing new countries (40+ visited so far).  
+* 🎹 Playing the piano.  
+* 📷 I take photos.  
 
 
 ## I'm currently learning
 
-* 🎯 Golang Programming Language  
+* 🎯 Go Programming Language  
 * 🎯 Airflow Orchestration  
-* 🎯 AI Prompting  
+* 🎯 AI Prompting and LLM Workflows
 
 
-## Stack I work with:
+## Stack I work with
 
 ![Python](https://img.shields.io/badge/-Python-2b5b84?style=for-the-badge&logo=python&logoColor=white) 
 ![Django](https://img.shields.io/badge/-Django-0C3C26?style=for-the-badge&logo=django) 
@@ -39,9 +39,8 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=vscode)
 
 
-## 🤝 Connect with me
+## How to reach me
 
-[![me@kidig.dev](https://img.shields.io/badge/me@kidig.dev%20-%23E62B1E.svg?&style=for-the-badge&logoColor=white)](mailto:me@kidig.dev) 
 [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerasimenko/)
 [![github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kidig/)
 
