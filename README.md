@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-* 🇭🇷 Based in Zagreb, Croatia.  
+* 🇪🇸 Based in Valencia, Spain.  
 * 📁 Senior Software Engineer at [MyDocs](https://mydocs.global).
 * 👨‍💻 15+ years of programming experience, primarily focused on backend development.
 
@@ -8,8 +8,8 @@
 ## In my spare time
 
 * ✈️ Traveling and exporing new countries (40+ visited so far).  
-* 🎹 Playing the piano.  
-* 📷 I take photos.  
+* 🎹 Playing the piano (and guitar).  
+* 📷 I take photos and videos while traveling.  
 
 
 ## I'm currently learning
